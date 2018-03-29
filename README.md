@@ -1,1 +1,1 @@
-Kodilla-wyzwanie JavaScript
+Wyzwanie JavaScript od Kodilla
