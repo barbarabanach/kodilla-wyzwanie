@@ -1,2 +1,2 @@
-#Wyzwanie Zrozumie JavaScript z Kodillą
+#Wyzwanie Zrozumiem JavaScript z Kodillą
 #5 zadań
